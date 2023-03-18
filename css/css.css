@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  nav {
+    background-color: #22232c;
+  }
+  .navbar {
+    word-spacing: 30px;
+    text-align: center;
+    padding: 20px 0;
+  }
+  .nav-links {
+    color: #f1f1f1;
+    font-size: 30px;
+    font-family: "Source Sans Pro", sans-serif;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  .section1 {
+    margin-top: 50px;
+  }
+  .section1 h1 {
+    padding: 0 30px;
+    font-size: 42px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 500;
+  }
+  .htmltutorialbtns {
+    padding: 0 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .home {
+    background-color: #04aa6d;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .home a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+  }
+  .next {
+    background-color: #04aa6d;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .next a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+  }
+  .htmltutorialgreen {
+    margin-top: 30px;
+    padding: 40px;
+    background-color: #d9eee1;
+    width: 100%;
+  }
+  .htmltutorialgreen p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    line-height: 50px;
+  }
+  .htmltutorialgreen button {
+    background-color: #04aa6d;
+    padding: 13px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+  .htmltutorialgreen a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  .sc2h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  .sc2p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 0 30px;
+    line-height: 50px;
+  }
+  .section2-example {
+    background-color: #e7e9eb;
+    margin: 0 15px;
+    margin-top: 30px;
+    padding: 20px 15px;
+    border-radius: 5px;
+  
+  }
+  .section2-example h3 {
+    font-size: 27px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+  }
+  .sc2btn {
+    background-color: #04aa6d;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  .sc2btn a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+  }
+  .section2-example-box {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px 15px;
+  }
+  .section2-end {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 20px 0px 20px 30px;
+  }
+  .sc3h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+  }
+  .sc3p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 0 30px;
+    margin-top: 30px;
+  }
+  .sc3btn {
+    background-color: #E7E9EB;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 30px;
+  }
+  .sc3btn a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  .sc4h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  .section4 p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 0 30px;
+    line-height: 45px;
+  }
+  .sc5h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  .section5 p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 0 30px;
+    line-height: 45px;
+  }
+  .section5 a {
+    color: black;
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding: 0 30px;
+    line-height: 45px;
+  }
+  .sc6h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+  }
+  .sc4-example {
+    background-color: #282A35;
+    margin: 30px 15px;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  .sc4-example-h2 {
+    color: white;
+    padding: 30px 0;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    
+  }
+  .sc4-example-box {
+    padding: 30px;
+    background-color: white;
+  }
+  .sc4-example-box h3 {
+    color: black;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+  }
+  .sc4exbox {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    padding-top: 30px;
+  }
+  .sc4-example-box p {
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Monospace', monospace;
+  }
+  .sc4-example-box2 {
+    background-color:#E7E9EB;
+    padding: 30px 15px ;
+    margin: 20px 0;
+  }
+  .sc4-example-box button {
+    background-color:#04aa6d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .sc4-example-box-link  {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  .sc4-example-box-lnk {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    margin-top: 40px;
+    color: black;
+  }
+  .section7 h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+  }
+  .section7 p {
+    padding: 30px 30px;
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+  }
+  .section7 button {
+    background-color:#2196F3;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-left: 30px;
+  }
+  .section8 h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin: 35px 0 20px;
+  }
+  .section8 p {
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+    line-height: 50px;
+    padding-left: 30px;
+  }
+  .section8 img {
+    padding-left: 13px;
+  }
+  .section9 h2 {
+    padding: 0 30px;
+    font-size: 32px;
+    font-family: 'Segoe UI",Arial', sans-serif;
+    font-weight: 500;
+    margin-top: 35px;
+  }
+  .section9 p {
+    padding: 30px 30px;
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+  }
+  .section9 img {
+    padding-left: 13px;
+  }
